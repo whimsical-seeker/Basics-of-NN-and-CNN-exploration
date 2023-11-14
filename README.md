@@ -2,7 +2,9 @@
 Exploring the concept of convolution nets 
 
 -How the image pixels are converted to tensors?
+
 -Creating the Nd array with RGB channels.
+
 -How does the model work?
 
 
